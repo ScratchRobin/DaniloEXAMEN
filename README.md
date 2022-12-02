@@ -11,4 +11,4 @@ Una base de datos es un conjunto de datos pertenecientes a <br>un mismo contexto
 ## Datos personales
  Nombre:Jerson  Danilo Garcia Ortiz<br>
  Clave: 9 <br>
- enlace:[daniloOrtiz@HolaProfesor¡HOW*ARE*/*YOU?](https://github.com/ScratchRobin/DaniloEXAMEN.git)<br>
+ enlace:[@daniloOrtiz@HolaProfesor$¿HOW*ARE*/*YOU?](https://github.com/ScratchRobin/DaniloEXAMEN.git)<br>
