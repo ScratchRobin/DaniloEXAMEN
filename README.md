@@ -10,5 +10,5 @@ x   Los repositorios personales de GitHub son básicamente <br>espacios de almac
  wamserver64<br>
 ## Datos personnales
  Nombre:Jerson  Danilo Garcia Ortiz<br>
- Clave: 9
- enlace:[daniloOrtiz](https://github.com/ScratchRobin/DaniloEXAMEN.git)
+ Clave: 9 <br>
+ enlace:[daniloOrtiz@HolaProfesor](https://github.com/ScratchRobin/DaniloEXAMEN.git)<br>
