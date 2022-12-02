@@ -1,4 +1,4 @@
-# DaniloEXAMEN:ç
+# DaniloEXAMEN:
 ## Descripcion de python condicionales:
 
 Depende entonces del conocimiento que tengamos acerca de <br>cada uno de los condicionales saber determinar <br>correctamente cuando es necesario usar uno u otro. <br>Tenemos a nuestra disposición los siguientes tipos de condicionales en Python: Condicional If en Python; <br>Condicional if-else en Python<br>
@@ -11,3 +11,4 @@ x   Los repositorios personales de GitHub son básicamente <br>espacios de almac
 ## Datos personnales
  Nombre:Jerson  Danilo Garcia Ortiz<br>
  Clave: 9
+ enlace:[daniloOrtiz](https://github.com/ScratchRobin/DaniloEXAMEN.git)
